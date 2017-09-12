@@ -1,0 +1,8 @@
+a.dropdown{
+    cursor: pointer;
+}
+
+a.dropdown:focus a.dropdown:active{
+    color: #18BC9C;
+    outline: none; 
+}
