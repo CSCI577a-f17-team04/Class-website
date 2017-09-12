@@ -12,6 +12,7 @@ a.dropdownMenu{
     text-align: center;
 }
 
+<<<<<<< Updated upstream
 a.email{
     color: white;
 }
@@ -20,3 +21,11 @@ a.email:hover a.email:focus a.email:active{
     text-decoration: none!important;
     color: #18bc9c;
 };
+=======
+.img{
+    max-width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    align-content: center;
+}
+>>>>>>> Stashed changes
