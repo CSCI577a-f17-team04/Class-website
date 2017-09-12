@@ -1,8 +1,13 @@
-a.dropdown{
+a.anchor-dropdown{
     cursor: pointer;
 }
 
-a.dropdown:focus a.dropdown:active{
-    color: #18BC9C;
+a.anchor-dropdown:focus a.anchor-dropdown:active{
+    color: black;
     outline: none; 
+}
+
+a.dropdownMenu{
+    font-size: 10pt;
+    text-align: center;
 }
