@@ -4,7 +4,7 @@ a.anchor-dropdown{
 
 a.anchor-dropdown:focus a.anchor-dropdown:active{
     color: black;
-    outline: none; 
+    outline: none;
 }
 
 a.dropdownMenu{
@@ -21,11 +21,10 @@ a.email:hover a.email:focus a.email:active{
     text-decoration: none!important;
     color: #18bc9c;
 };
-=======
+
 .img{
     max-width: 250px;
     height: 250px;
     border-radius: 50%;
     align-content: center;
 }
->>>>>>> Stashed changes
