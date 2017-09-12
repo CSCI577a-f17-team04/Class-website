@@ -11,3 +11,12 @@ a.dropdownMenu{
     font-size: 10pt;
     text-align: center;
 }
+
+a.email{
+    color: white;
+}
+
+a.email:hover a.email:focus a.email:active{
+    text-decoration: none!important;
+    color: #18bc9c;
+};
