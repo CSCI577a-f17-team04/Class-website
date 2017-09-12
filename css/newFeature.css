@@ -28,3 +28,14 @@ a.email:hover a.email:focus a.email:active{
     border-radius: 50%;
     align-content: center;
 }
+
+div.footer {
+    bottom: 0;
+    width: 100%;
+    position: absolute;
+    height: $height-footer;
+    background-color: #f5f5f5;
+    .footer-block {
+      margin: 20px 0;
+    }
+}
